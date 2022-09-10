@@ -1,2 +1,2 @@
-# Curso-de-Javascript-na-DIO
+# Curso Prog. para internet JS
 Trabalhos Resultantes do Curso
